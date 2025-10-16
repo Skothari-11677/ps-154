@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "739171047443",
+    "project_id": "ps154-a4a41",
+    "storage_bucket": "ps154-a4a41.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739171047443:android:9700581331b59ad4eb47e6",
+        "android_client_info": {
+          "package_name": "com.example.pcr_poa_beneficiary_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC90JLUuAWJerAC0Do84KM_2oSaz5YAXrw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
